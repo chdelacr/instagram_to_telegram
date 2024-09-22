@@ -72,3 +72,5 @@ Due to limitations with GitHub Actions, jobs are executed every 6 hours, and in-
 
 ## Disclaimer
 This is a personal project and is not affiliated with Instagram or Telegram in any way.
+
+TY
